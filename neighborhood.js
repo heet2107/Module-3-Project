@@ -5,7 +5,7 @@ function thaiRes(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	alert("Black");
+	alert("Bangkok Thai Cuisine");
 }
 
 let mexican = document.querySelector('#Mexican');
@@ -15,7 +15,7 @@ function mexicanRes(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	alert("Leh-Ladakh");
+	alert("On The Broder Mexican Grill");
 }
 
 let american = document.querySelector('#American');
@@ -25,7 +25,7 @@ function americanRes(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	alert("Hindu");
+	alert("Big Dip Burgers");
 }
 
 let indian = document.querySelector('#Indian');
@@ -35,7 +35,7 @@ function indianRes(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	alert("Hindu");
+	alert("Shalimar Indian Cuisine");
 }
 
 let italian = document.querySelector('#Italian');
@@ -45,7 +45,7 @@ function italianRes(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	alert("Hindu");
+	alert("Olive Garden");
 }
 
 let japanese = document.querySelector('#Japanese');
@@ -55,5 +55,5 @@ function japaneseRes(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	alert("Hindu");
+	alert("Shushi World");
 }
